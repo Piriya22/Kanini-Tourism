@@ -3,7 +3,7 @@ import logImage from './assets/log.svg';
 import registerImage from './assets/register.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
-import { Link } from 'react-router-dom';
+import { Link, Navigate } from 'react-router-dom';
 
 
 
@@ -30,7 +30,7 @@ function Agent_Signup() {
       .post('https://localhost:7276/api/Agents', formData)
       .then((response) => {
         console.log('Travel agency created:', response.data);
-        // Reset form or navigate to success page
+        Navigate('./Agent_login')
       })
       .catch((error) => {
         if (error.response) {

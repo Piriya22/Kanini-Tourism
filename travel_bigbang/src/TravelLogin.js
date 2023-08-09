@@ -2,7 +2,7 @@ import React, { useState} from 'react';
 import pic from './assets/signup.jpg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from 'axios';
-import { toast, ToastContainer } from 'react-toastify';
+import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { useNavigate } from 'react-router-dom';
 
@@ -10,7 +10,7 @@ import { useNavigate } from 'react-router-dom';
 function TravelLogin() {
     const [traveller_name, setTravellerName] = useState('');
     const [traveller_password, setTravellerPassword] = useState('');
-    const [errors, setErrors] = useState({});
+    const [errorsset, setErrors] = useState({});
     const navigate = useNavigate();
 
     const handleInputChange = (event) => {

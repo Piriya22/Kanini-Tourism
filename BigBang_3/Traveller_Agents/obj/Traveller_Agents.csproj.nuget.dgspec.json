@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj": {}
+    "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj": {}
   },
   "projects": {
-    "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj": {
+    "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj",
+        "projectUniqueName": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj",
         "projectName": "Traveller_Agents",
-        "projectPath": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj",
+        "projectPath": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\Traveller_Agents.csproj",
         "packagesPath": "C:\\Users\\piriy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\obj\\",
+        "outputPath": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\piriy\\AppData\\Roaming\\NuGet\\NuGet.Config",

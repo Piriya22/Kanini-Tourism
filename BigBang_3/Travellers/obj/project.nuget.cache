@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oOgpSEN8RqolL3AQKY9gr4fe4/Mdn0C72Mp1A8oPg4+dckO7+FQ+7fAM0b5suohrZwsdlMInLa3I0z+F8PAQCw==",
+  "dgSpecHash": "ffuu3ujmEfWYKs1FJO9VW7Qg2MzsTyc895SKoaeNyFsY96VkcCFY8gs4rKnG0z56SVZMV6wQTkezJwa4xhaooA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Travellers\\Travellers.csproj",
+  "projectFilePath": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Travellers\\Travellers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\piriy\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\piriy\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

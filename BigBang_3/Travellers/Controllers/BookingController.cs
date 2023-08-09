@@ -25,14 +25,12 @@ namespace Travellers.Controllers
             try
             {
                 var bookings = _bookingService.GetBookings();
-                return Ok(_bookingService.GetBookings);
+                return Ok(_bookingService.GetBookings());
             }
             catch (Exception ex)
             {
-                // Log the exception for debugging purposes.
-                // You may want to implement a proper logging mechanism here.
 
-                return StatusCode(500, "An error occurred while processing your request.");
+                return BadRequest(ex.Message);
             }
         }
 

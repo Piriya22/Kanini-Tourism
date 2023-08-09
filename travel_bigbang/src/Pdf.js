@@ -89,7 +89,7 @@ const calculateTourCost = (booking) => {
   const PDFDocument = () => (
     <Document>
       <Page size="A4" style={styles.page}>
-      <Text style={styles.heading}>TravelGo</Text>
+      <Text style={styles.heading}>Trips</Text>
 
 {/* Home */}
 <View style={{ ...styles.section, justifyContent: 'center', alignItems: 'center' }}>

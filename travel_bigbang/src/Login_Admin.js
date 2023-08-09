@@ -1,7 +1,6 @@
 import { toast } from 'react-toastify';
 import { useNavigate } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
-// import './Login_Admin.css'; 
 import wave from './assets/wave.png';
 import bgImage from './assets/bg.svg';
 import avatarImage from './assets/avatar.svg';
@@ -40,7 +39,7 @@ function AdminLoginForm() {
           toast.success('Success');
           localStorage.setItem('role','admin')
           localStorage.setItem('token', resp);
-          navigate('/Approve');
+          navigate('/Post_Gallery');
         })
         .catch((err) => {
           toast.error('Login Failed due to: ' + err.message);
@@ -306,7 +305,7 @@ function AdminLoginForm() {
             </div>
             <div className="div">
               <div className="form-group">
-                <label>User Name </label>
+                <label style={{ color: 'white' }}>User Name </label>
                 <input value={admin_name} onChange={e => setUserName(e.target.value)} className="form-control"></input>
               </div>
             </div>
@@ -317,7 +316,7 @@ function AdminLoginForm() {
             </div>
             <div className="div">
               <div className="form-group">
-                <label>Password</label>
+                <label style={{ color: 'white' }}>Password</label>
                 <input type="password" value={admin_password} onChange={e => setPassword(e.target.value)} className="form-control"></input>
               </div>
             </div>

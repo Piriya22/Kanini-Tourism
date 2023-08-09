@@ -1,8 +1,13 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import { useNavigate } from 'react-router-dom';
+
 
 const Tourpost = () => {
+  const navigate = useNavigate();
   const [newPackage, setNewPackage] = useState({
+   
+
     
     food_plan: '',
     tour_name:'',
@@ -32,16 +37,16 @@ const Tourpost = () => {
       formData.append('price', newPackage.price);
       formData.append('vacation_type', newPackage.vacation_type);
       formData.append('duration', newPackage.duration);
-      formData.append('itenary', newPackage.itinerary);
        
 
-
+      
       const response = await axios.post(apiUrl, formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
       });
       console.log('New tour package added successfully:', response.data);
+      navigate('/Fetch');
       setNewPackage({
      
         food_plan: '',
@@ -64,9 +69,15 @@ const Tourpost = () => {
     setNewPackage({ ...newPackage, image: file }); 
   };
 
+
+
   return (
-    <div>
-      <form onSubmit={handleFormSubmit}>
+    <div className="d-flex justify-content-center align-items-center" style={{ minHeight: '100vh', overflow: 'hidden',backgroundColor:'black',padding:'40px' }}>
+    <div className="card" style={{ minWidth: '800px' }}>
+      <div className="card-body">
+        <h2 className="card-title">Add New Tour Package</h2>
+        <form onSubmit={handleFormSubmit}>
+
       <div className="mb-3">
           <label htmlFor="food_plan" className="form-label">Food Plan</label>
           <input
@@ -177,7 +188,9 @@ const Tourpost = () => {
           />
         </div>
         <button type="submit" className="btn btn-primary">Add New Tour Package</button>
-      </form>
+          </form>
+        </div>
+      </div>
     </div>
   );
 };

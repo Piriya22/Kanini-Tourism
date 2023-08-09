@@ -41,7 +41,7 @@ function Signup() {
               console.log(resp);
               toast.success('Success');
               localStorage.setItem('token', resp);
-              navigate('/admin');
+              navigate('/TravelLogin');
             })
             .catch((err) => {
               toast.error('Login Failed due to: ' + err.message);

@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { useNavigate } from 'react-router-dom';
 
 
-function AdminPage() {
+function Approve() {
 
   const [activeSection, setActiveSection] = useState('content');
   const [agency, setagency] = useState([]);
@@ -99,8 +99,7 @@ const fetchNotApprovedagency=()=>{
     };
 
   return (
-    <>
-  
+    <>  
     <header className="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: "grey", color: "#fff" }}>
         <div className="container-fluid">
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -127,7 +126,6 @@ const fetchNotApprovedagency=()=>{
         </div>
       </header>
 
-  
   
   
   
@@ -307,4 +305,4 @@ const fetchNotApprovedagency=()=>{
   );  
 }
 }
-export default AdminPage;
+export default Approve;

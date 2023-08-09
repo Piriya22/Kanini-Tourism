@@ -58,30 +58,31 @@ const ImageGallery = () => {
     <div>
     <style dangerouslySetInnerHTML={{__html: `
       body{
-        backgroundImage: 'url(${glass})',
+        background-color: black;
         backgroundSize: 'cover', 
         padding: '50px'
       }
     `}} />
-    <div className="container" style={{padding:'50px'}}>
-      <div className="card text-center p-4">
-        <h2>Image Gallery</h2>
-        <div className="row justify-content-center">
-          {imagegallery.map((image, index) => (
-            <div className="col-md-4 mb-4" key={index}>
-              <div className="card" style={cardStyle} onMouseEnter={handleHover} onMouseLeave={handleLeave}>
-                <img src={`https://localhost:7116/uploads/${image.location_image}`} alt={image.tourName} className="card-img-top img-fluid" />
-                <div className="card-body">
-                  <h5 className="card-title">{image.tour_name}</h5>
-                  <button className="btn btn-primary" onClick={() => handleView(image)}>View Packages</button>
-                </div>
-              </div>
+   <div className="container" style={{ padding: '50px' }}>
+  <div className="card text-center p-4" style={{ backgroundColor: 'transparent', color: '#FFFFFF', display: 'flex', justifyContent: 'center', alignItems: 'center', backdropFilter: 'blur(10px)' }}>
+    <h2 style={{ padding: '20px' }}>IMAGE GALLERY</h2>
+    <div className="row justify-content-center">
+      {imagegallery.map((image, index) => (
+        <div className="col-md-4 mb-4" key={index}>
+          <div className="card" style={cardStyle} onMouseEnter={handleHover} onMouseLeave={handleLeave}>
+            <img src={`https://localhost:7116/uploads/${image.location_image}`} alt={image.tourName} className="card-img-top img-fluid" />
+            <div className="card-body">
+              <h5 className="card-title">{image.tour_name}</h5>
+              <button className="btn btn-primary" onClick={() => handleView(image)}>View Packages</button>
             </div>
-          ))}
+          </div>
         </div>
-      </div>
+      ))}
     </div>
-    </div>
+  </div>
+</div>
+</div>
+
   );
 };
 

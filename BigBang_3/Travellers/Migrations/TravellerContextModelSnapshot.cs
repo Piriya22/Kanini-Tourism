@@ -56,13 +56,16 @@ namespace Travellers.Migrations
                     b.Property<int>("traveller_id")
                         .HasColumnType("int");
 
+                    b.Property<int?>("traveller_id1")
+                        .HasColumnType("int");
+
                     b.Property<string>("vacation_type")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("booking_id");
 
-                    b.HasIndex("traveller_id");
+                    b.HasIndex("traveller_id1");
 
                     b.ToTable("bookings");
                 });
@@ -171,9 +174,7 @@ namespace Travellers.Migrations
                 {
                     b.HasOne("Travellers.Models.Traveller", "traveller")
                         .WithMany("Bookings")
-                        .HasForeignKey("traveller_id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("traveller_id1");
 
                     b.Navigation("traveller");
                 });

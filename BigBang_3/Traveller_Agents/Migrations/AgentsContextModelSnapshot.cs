@@ -22,34 +22,6 @@ namespace Traveller_Agents.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Traveller_Agents.Models.Agent", b =>
-                {
-                    b.Property<int>("agent_id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("agent_id"));
-
-                    b.Property<string>("agent_image")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("agent_name")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("agent_password")
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<string>("status")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("agent_id");
-
-                    b.ToTable("Agents");
-                });
-
             modelBuilder.Entity("Traveller_Agents.Models.Spot", b =>
                 {
                     b.Property<int>("SpotId")

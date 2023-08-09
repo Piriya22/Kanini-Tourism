@@ -5,16 +5,11 @@ import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Agent_Signup from "./Agent_Signup";
-import AnimatedLoginForm from "./Login_Admin";
-import Approve from "./Approve";
+import AdminLoginForm from "./Login_Admin";
 import Signup from "./Signup";
 import HomeOld from "./HomeOld";
-import BookingConfirmation from './BookingConfirmation';
-import { BookingProvider } from './BookingContext';
-import Tour_Fetch from './Tour_Fetch';
 import Tour_Post from './Tour_Post';
 import Agent_Login from './Agent_Login';
-import Tour_package from './Tour_Package';
 import TravelLogin from './TravelLogin';
 import Gallery from './Gallery';
 import NewBook from './NewBook';
@@ -22,7 +17,8 @@ import Status from './Status';
 import Fetch from './Fetch';
 import Payment from './Payment';
 import Pdf from './Pdf';
-
+import Post_Gallery from './Post_Gallery';
+import Approve from './Approve'
 function TravelAgent({role, children})
 {
     if(localStorage.getItem("role")!= null && localStorage.getItem("role") === "agent")
@@ -68,22 +64,28 @@ function App() {
         <Route path='/Signup' element={<Signup/>}></Route>
         <Route path='/Agent_Signup' element={<Agent_Signup/>}></Route>
         <Route path='/Gallery' element={<Gallery/>}></Route>
+        <Route path='/Fetch' element={<Fetch/>}></Route>
+        <Route path='/Agent_Login' element= {<Agent_Login/>}></Route>
+        <Route path='/Login_Admin' element={<AdminLoginForm/>}></Route>
+        <Route path='/Post_Gallery' element={<Post_Gallery/>}></Route>
+        <Route path='/Status' element={<Status/>}></Route>
+
+        <Route path='/Approve' element={<Approve/>}></Route>    
+       
+
+
         {/* Admin Pages */}
-        <Route path='/Approve' element={ <Admin> {<Approve/>} </Admin> }></Route>
-        <Route path='/Login_Admin' element={ <Admin>{<AnimatedLoginForm/>}</Admin>}></Route>
+        {/* <Route path='/AdminPage' element={ <Admin> {<AdminPage/>} </Admin> }></Route> */}
+        {/* <Route path='/AdminPage' element={<AdminPage/>}></Route> */}
+        {/* <Route path='/AdminPage2' element={<AdminPage2/>}></Route> */}
+
         {/* Agent Pages */}
         <Route path='/Tour_Post' element={<TravelAgent> {<Tour_Post/>} </TravelAgent>}></Route>
-        <Route path='/Agent_Login' element={<TravelAgent> {<TravelLogin/>} </TravelAgent>}></Route>
         {/* Traveller Pages */}
-        <Route path='/Fetch' element={<Traveller>{<Fetch/>}</Traveller>}></Route>
         <Route path='/NewBook' element={<Traveller>{<NewBook/>}</Traveller>}></Route>
         <Route path='/Status' element={<Traveller>{<Status/>}</Traveller>}></Route>
         <Route path='/Payment' element={<Traveller>{<Payment/>}</Traveller>}></Route>
         <Route path='/Pdf' element={<Traveller>{<Pdf/>}</Traveller>}></Route>
-
-        {/* <Route path='/Tour_Package' element={Tour_package}></Route> */}
-        {/* <Route path='/BookingConfirmation' element={BookingConfirmation}></Route> */}
-        {/* <Route path='/Tour_Fetch' element={Tour_Fetch}></Route> */}
       </Routes>
 
 
@@ -92,3 +94,6 @@ function App() {
 }
 
 export default App;
+
+
+

@@ -19,12 +19,10 @@ namespace Travellers.Models
         public int booking_id { get; set; }
 
         [Required]
-        public int traveller_id { get; set; }
-
-        [ForeignKey("traveller_id")] // Define the foreign key relationship
-        public Traveller? traveller { get; set; } // Navigation property to Traveller
-
         public int package_id { get; set; }
+        [ForeignKey("traveller_id")]
+        public int traveller_id { get; set; }
+        public Traveller? traveller { get; set; } // Navigation property to Traveller
         public string email { get; set; }
         public long phone_number { get; set; }
         public string residence { get; set; }

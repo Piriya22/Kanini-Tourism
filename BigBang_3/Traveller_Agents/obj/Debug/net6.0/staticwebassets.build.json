@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z68L9UChhLnNlIObRLPaLQBtaerwjKM7ZmHoPGXPjEM=",
+  "Hash": "j6txiFsXYH5dh0YKi6kqlCVByTfFtfVTIph/eRorbMU=",
   "Source": "Traveller_Agents",
   "BasePath": "_content/Traveller_Agents",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Traveller_Agents\\wwwroot",
       "Source": "Traveller_Agents",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\22e2f899-3f0b-46d4-9b0f-a60a72ca7156.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\22e2f899-3f0b-46d4-9b0f-a60a72ca7156.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/22e2f899-3f0b-46d4-9b0f-a60a72ca7156.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\22e2f899-3f0b-46d4-9b0f-a60a72ca7156.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\48967f1b-f220-4e60-8caf-4d55b0b48eca.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\48967f1b-f220-4e60-8caf-4d55b0b48eca.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/48967f1b-f220-4e60-8caf-4d55b0b48eca.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\48967f1b-f220-4e60-8caf-4d55b0b48eca.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\57bd7fc4-a69e-4f63-a032-2f858d77df7e.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\57bd7fc4-a69e-4f63-a032-2f858d77df7e.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/57bd7fc4-a69e-4f63-a032-2f858d77df7e.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\57bd7fc4-a69e-4f63-a032-2f858d77df7e.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\5b994681-b399-4f07-be61-fcfaf25cffd0.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\5b994681-b399-4f07-be61-fcfaf25cffd0.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/5b994681-b399-4f07-be61-fcfaf25cffd0.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\5b994681-b399-4f07-be61-fcfaf25cffd0.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\5bd8c810-dd6c-479c-a9d6-64e3e9d7efb2.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\5bd8c810-dd6c-479c-a9d6-64e3e9d7efb2.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/5bd8c810-dd6c-479c-a9d6-64e3e9d7efb2.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\5bd8c810-dd6c-479c-a9d6-64e3e9d7efb2.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\61eb1cc5-7bda-4fd7-aa9f-5d48f1122efa.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\61eb1cc5-7bda-4fd7-aa9f-5d48f1122efa.png",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/61eb1cc5-7bda-4fd7-aa9f-5d48f1122efa.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\61eb1cc5-7bda-4fd7-aa9f-5d48f1122efa.png"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\62088adf-550b-4f9f-a3da-31919ea7a1a8.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\62088adf-550b-4f9f-a3da-31919ea7a1a8.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/62088adf-550b-4f9f-a3da-31919ea7a1a8.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\62088adf-550b-4f9f-a3da-31919ea7a1a8.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\6b701879-15d4-4889-ae4a-9b18b176027d.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\6b701879-15d4-4889-ae4a-9b18b176027d.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/6b701879-15d4-4889-ae4a-9b18b176027d.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\6b701879-15d4-4889-ae4a-9b18b176027d.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\79bcfe4b-7f82-4db4-8c39-9de736ae610a.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\79bcfe4b-7f82-4db4-8c39-9de736ae610a.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/79bcfe4b-7f82-4db4-8c39-9de736ae610a.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\79bcfe4b-7f82-4db4-8c39-9de736ae610a.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\9432fd81-cc7b-4f67-a887-ebd8f4493b2f.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\9432fd81-cc7b-4f67-a887-ebd8f4493b2f.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/9432fd81-cc7b-4f67-a887-ebd8f4493b2f.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\9432fd81-cc7b-4f67-a887-ebd8f4493b2f.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\96d4ce88-6a97-4370-8c09-2912b2c322ee.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\96d4ce88-6a97-4370-8c09-2912b2c322ee.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/96d4ce88-6a97-4370-8c09-2912b2c322ee.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\96d4ce88-6a97-4370-8c09-2912b2c322ee.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\ad210cd9-64cc-4006-9246-988f9529ad04.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\ad210cd9-64cc-4006-9246-988f9529ad04.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/ad210cd9-64cc-4006-9246-988f9529ad04.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\ad210cd9-64cc-4006-9246-988f9529ad04.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\c09e79a8-5c55-415e-b5df-01311f1ea0d5.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\c09e79a8-5c55-415e-b5df-01311f1ea0d5.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/c09e79a8-5c55-415e-b5df-01311f1ea0d5.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\c09e79a8-5c55-415e-b5df-01311f1ea0d5.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\cf3a4fc6-22c8-46c2-9807-b0493b639db0.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\cf3a4fc6-22c8-46c2-9807-b0493b639db0.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/cf3a4fc6-22c8-46c2-9807-b0493b639db0.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\cf3a4fc6-22c8-46c2-9807-b0493b639db0.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\e25bab56-1788-4a0d-bc9c-604633fd2552.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\e25bab56-1788-4a0d-bc9c-604633fd2552.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/e25bab56-1788-4a0d-bc9c-604633fd2552.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\e25bab56-1788-4a0d-bc9c-604633fd2552.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\e5ffa340-bece-467c-a487-717325199c34.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\e5ffa340-bece-467c-a487-717325199c34.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/e5ffa340-bece-467c-a487-717325199c34.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\e5ffa340-bece-467c-a487-717325199c34.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\ebf2c8e3-09bb-4fd8-be3e-2cb49a818c42.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\ebf2c8e3-09bb-4fd8-be3e-2cb49a818c42.jpg",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/ebf2c8e3-09bb-4fd8-be3e-2cb49a818c42.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\ebf2c8e3-09bb-4fd8-be3e-2cb49a818c42.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\fe0537de-138b-4f9b-92c3-128acfa8dc83.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\uploads\\fe0537de-138b-4f9b-92c3-128acfa8dc83.png",
       "SourceId": "Traveller_Agents",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Traveller_Agents\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Traveller_Agents\\wwwroot\\",
       "BasePath": "_content/Traveller_Agents",
       "RelativePath": "uploads/fe0537de-138b-4f9b-92c3-128acfa8dc83.png",
       "AssetKind": "All",

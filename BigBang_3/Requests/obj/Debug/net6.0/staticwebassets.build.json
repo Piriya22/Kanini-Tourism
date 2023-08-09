@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gyh30idn21dxlxxq+dlhg7B46+jnprvJCAjPKaNJqPY=",
+  "Hash": "Z4/9sZ5EdlA/WfaejLuBYKIV6SZnJoDUkg+qD9qHldY=",
   "Source": "Requests",
   "BasePath": "_content/Requests",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Requests\\wwwroot",
       "Source": "Requests",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\07858c89-533e-4207-b70b-4610c6f82ff3.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\07858c89-533e-4207-b70b-4610c6f82ff3.png",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/07858c89-533e-4207-b70b-4610c6f82ff3.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\07858c89-533e-4207-b70b-4610c6f82ff3.png"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\087e6d3f-5b11-4286-80a1-162380a25682.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\087e6d3f-5b11-4286-80a1-162380a25682.png",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/087e6d3f-5b11-4286-80a1-162380a25682.png",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\087e6d3f-5b11-4286-80a1-162380a25682.png"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\2c72fb73-93e6-424e-980c-cdfd216ed3e7.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\2c72fb73-93e6-424e-980c-cdfd216ed3e7.png",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/2c72fb73-93e6-424e-980c-cdfd216ed3e7.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2c72fb73-93e6-424e-980c-cdfd216ed3e7.png"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\2e2f173c-73bd-4e28-aa45-a4e4d42397ad.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\2e2f173c-73bd-4e28-aa45-a4e4d42397ad.jpg",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/2e2f173c-73bd-4e28-aa45-a4e4d42397ad.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\2e2f173c-73bd-4e28-aa45-a4e4d42397ad.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\6a0b194a-fd55-445b-a1e4-fdc3cdb6192f.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\6a0b194a-fd55-445b-a1e4-fdc3cdb6192f.png",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/6a0b194a-fd55-445b-a1e4-fdc3cdb6192f.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\6a0b194a-fd55-445b-a1e4-fdc3cdb6192f.png"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\9e49b761-f52b-468d-98cc-7d3eb225ae06.jpg",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\9e49b761-f52b-468d-98cc-7d3eb225ae06.jpg",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/9e49b761-f52b-468d-98cc-7d3eb225ae06.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\9e49b761-f52b-468d-98cc-7d3eb225ae06.jpg"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\e07d9c4b-578c-466d-bd2d-a6b3e4d190a3.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\e07d9c4b-578c-466d-bd2d-a6b3e4d190a3.png",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/e07d9c4b-578c-466d-bd2d-a6b3e4d190a3.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\e07d9c4b-578c-466d-bd2d-a6b3e4d190a3.png"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\fe9e68fd-a4f5-4333-9b4f-0b661cfcebd9.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\fe9e68fd-a4f5-4333-9b4f-0b661cfcebd9.png",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/fe9e68fd-a4f5-4333-9b4f-0b661cfcebd9.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\fe9e68fd-a4f5-4333-9b4f-0b661cfcebd9.png"
     },
     {
-      "Identity": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\uploads\\Showcase Cover.png",
+      "Identity": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\uploads\\Showcase Cover.png",
       "SourceId": "Requests",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\wwwroot\\",
       "BasePath": "_content/Requests",
       "RelativePath": "uploads/Showcase Cover.png",
       "AssetKind": "All",

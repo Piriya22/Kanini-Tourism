@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import backg from './assets/Img/beach.jpg'
 import glass from './assets/Img/sun.jpg'
 import { NavLink } from 'react-router-dom';
+import logo from './assets/logo.png';
+import xAI from './assets/xAI.png';
 
 
 
@@ -937,8 +939,11 @@ function HomeOld() {
 
        <nav className={`nav ${menuActive ? 'affix' : ''}`}>
   <div className="container" style={{ color: 'black' }}>
-    <div className="logo">
-      <a href="/">Trips</a>
+  <div className="logo">
+      <a href="/">
+        <img src={xAI} alt="Trips Logo" height={"50px"} weight={"50px"}/>
+        Trips
+      </a>
     </div>
     <div id="mainListDiv" className={`main_list ${menuActive ? 'show_list' : ''}`}>
       <ul className="navlinks">
@@ -973,12 +978,7 @@ function HomeOld() {
             <NavLink exact to="/TravelLogin" className="dropdown-item">
               User Login
             </NavLink>
-            {/* <NavLink exact to="/patreg" className="dropdown-item">
-              Patient Register
-            </NavLink>
-            <NavLink exact to="/Doctorreg" className="dropdown-item">
-              Doctor Register
-            </NavLink> */}
+          
           </div>
         </li>
       </ul>
@@ -1017,7 +1017,7 @@ function HomeOld() {
             <div className="container-xxl py-5" >
                     <div className="container">
                         <div className="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style={{ maxWidth: "600px" ,padding:'50px'}}>
-                            <h1>Explore New Places</h1>
+                            <h1><b>Explore New Places</b></h1>
                         </div>
                         <div className="row g-4">
                             <div className="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -1134,7 +1134,7 @@ function HomeOld() {
     <section id="tours">
     <div className="container">
     <div className="title-container" style={{padding: "60px",marginLeft:"-50px"}}>
-      <h2 className="section-title">Travel Tips and Advice</h2>
+      <h2 className="section-title"><b>Travel Tips and Advice</b></h2>
     </div>
     <div className="tours-cards" >
       <div className="tours-card">
@@ -1207,7 +1207,7 @@ function HomeOld() {
     <section id="activities" style={{padding:80}}>
   <div className="container">
     <div className="title-container">
-      <h2 className="section-title">Activities</h2>
+      <h2 className="section-title" style={{padding:'20px'}}><b>Activities</b></h2>
     </div>
 
     <div className="activities-cards">

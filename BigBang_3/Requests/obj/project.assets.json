@@ -3913,11 +3913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\Requests.csproj",
+      "projectUniqueName": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\Requests.csproj",
       "projectName": "Requests",
-      "projectPath": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\Requests.csproj",
+      "projectPath": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\Requests.csproj",
       "packagesPath": "C:\\Users\\piriy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\piriy\\OneDrive\\Documents\\SQL Server Management Studio\\DAC Packages\\BigBang_3\\Requests\\obj\\",
+      "outputPath": "C:\\Users\\piriy\\BigBang3\\BigBang_3\\Requests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\piriy\\AppData\\Roaming\\NuGet\\NuGet.Config",
